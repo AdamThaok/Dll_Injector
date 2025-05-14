@@ -45,7 +45,7 @@ ManualMapper.exe [TargetProcessName.exe] [YourDll.dll]
 **Example:**
 
 ```bash
-ManualMapper.exe notepad.exe myhack.dll
+ManualMapper.exe notepad.exe mydll.dll
 ```
 
 ---
